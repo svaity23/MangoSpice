@@ -3,11 +3,11 @@ MangoSpice is web application to demonstrate login, manage products, place an or
 This application has different microservices like product, shopping cart, ordering, payment and email with SQL server communicating 
 over Azure Service Bus and using Ocelot API gateway.
 
-Microservices and project items
+##Microservices and project items
 
-Product Microservice
+##Product Microservice
 
-.NET Identity Microservice
+##.NET Identity Microservice
 
 Coupon Microservice
 
